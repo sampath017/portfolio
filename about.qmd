@@ -1,0 +1,13 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: My Github
+      href: https://github.com/sampath017
+
+---
+
+Hi, i am currently working for no one. Studing data science and machine learning in my free time.

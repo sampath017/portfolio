@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sampath Kovvali 🤖"
+  site-url: https://sampathkovvali.com
+  description: "Simple blog"
+  open-graph: true
+  navbar:
+    right:
+      - about.qmd
+      - icon: rss
+        href: index.xml
+      - icon: github
+        href: https://github.com/sampath017/portfolio
+format:
+  html:
+    theme: 
+      light: cosmo
+    css: styles.css
+
+execute: 
+  freeze: auto
+
