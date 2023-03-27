@@ -1,5 +1,5 @@
 ---
-title: "AI, Physics, Math, Psychology  and Philosophy"
+title: "AI, Math, Psychology, Psychology and Philosophy"
 listing:
   contents: posts
   sort: "date desc"
