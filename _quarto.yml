@@ -5,7 +5,7 @@ project:
 website:
   title: "Sampath Kovvali 🤖"
   site-url: https://sampathkovvali.com
-  description: "Simple blog"
+  description: "A blog to share my thoughts and learnings."
   open-graph: true
   navbar:
     right:

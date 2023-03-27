@@ -1,9 +1,0 @@
----
-title: "My first post"
-author: "Sampath Kovvali"
-date: "2023-03-26"
-categories: [news]
-image: "first_code.jpg"
----
-
-This is a post with executable code.
