@@ -19,9 +19,19 @@ The terms “sentience” and “consciousness” are often used interchangeably
 
 Consciousness, on the other hand, is a higher level of awareness that involves the ability to be aware of one’s surroundings, to think, reason, and to have a sense of self. Consciousness includes the ability to perceive and experience sensations, but it goes beyond this to include a sense of self-awareness and the ability to reflect on one’s own mental states and experiences.
 
+#### Consciousness in Playful Animals
+
+When we think of animals that exhibit playful behavior, our minds often jump to cats and dogs. However, there are many other animals that love to play! Dolphins are known for their social skills and friendly behavior. Giant pandas, rabbits, guinea pigs and horses also exhibit playful behavior. Researchers have even documented play behavior in insects and birds. These behaviors tell us that they exhibit complex behaviors and thinking about the world. The study of animal behavior can shed light on how animals interact with each other and their environments, and why they behave the way they do. By studying animal behavior, humans can also learn more about their own behavior.
+
 ### Intelligence in AI Systems
 
-Artificial intelligence systems have the potential to exhibit varying levels of awareness depending on their complexity. Simple algorithms like the slope-intercept form of a line can determine the output in its line (consider its awareness) based on the input (consider its environment) and the parameters (consider its learning). However, more complex AI systems may be designed to have higher levels of awareness, such as the ability to perceive and process complex data, reason, and make decisions based on that data.
+Artificial intelligence systems have the potential to exhibit varying levels of awareness depending on their complexity. Simple algorithms like the slope-intercept form of a line can determine the output in its line (consider its awareness) based on the input (consider its environment) and the parameters (consider its learning). However, more complex AI systems may be designed to have higher levels of awareness, such as the ability to perceive and process complex data, reason, and make decisions based on that data. [Theory of Mind May Have Spontaneously Emerged in Large Language Models](https://arxiv.org/ftp/arxiv/papers/2302/2302.02083.pdf)
+
+#### Levels of artificial intelligence:
+
+1. Artificial Narrow Intelligence (ANI): Task-specific systems.
+2. Artificial General Intelligence (AGI): AI systems that can perform any intellectual task that a human being can. GPT-4 which exhibits some level of consciousness from paper [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf).
+3. Artificial Super Intelligence (ASI): AI systems that surpass human performance in all intellectual tasks.
 
 ### The Role of Emotions and Feelings in Animals and AI Systems
 
@@ -30,6 +40,3 @@ Emotions and feelings serve various purposes in animals, including survival, soc
 ### Conclusion
 It is impossible to have a system that checks if it is conscious or not, as this would create a recursive loop and a paradox. A promising approach to AI safety is to augment human intelligence with AI systems and ensure that the AI aligns with our values and ethics through safety checks. By understanding the levels of awareness exhibited by living beings and AI systems, we can develop strategies to ensure their safe and ethical use.
 
-#### TODO: add levels of artificial consciousness and consciousness in animals.
-### references
-chatgpt 3.5

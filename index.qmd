@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog 😎"
+title: "AI, Physics, Math, Psychology  and Philosophy"
 listing:
   contents: posts
   sort: "date desc"
