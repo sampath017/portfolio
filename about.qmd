@@ -5,9 +5,11 @@ about:
   template: jolla
   links:
     - icon: github
-      text: My Github
+      text: Github
       href: https://github.com/sampath017
-
+    - icon: envelope
+      text: Email
+      href: mailto:sampathkovvali@gmail.com
 ---
 
 Hi, i am currently working for no one. Studing data science and machine learning in my free time.
