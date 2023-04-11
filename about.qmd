@@ -7,9 +7,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/sampath017
+
     - icon: envelope
       text: Email
       href: mailto:sampathkovvali@gmail.com
+      
+    - icon: file-earmark-person
+      text: Resume
+      href: https://gitconnected.com/sampath017/resume
 ---
 
 Hi, i am currently working for no one. Studing data science and machine learning in my free time.
