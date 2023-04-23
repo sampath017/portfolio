@@ -2,7 +2,7 @@
 title: "The Role of Emotions and Consciousness in Animals and AI: Understanding Levels of Awareness and Ensuring Safety"
 author: "Sampath Kovvali"
 date: "2023-03-27"
-categories: [info]
+categories: [AI]
 ---
 
 ## Understanding the Levels of Awareness: From Bacteria to Artificial Intelligence

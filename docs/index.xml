@@ -10,7 +10,49 @@
 <atom:link href="https://sampathkovvali.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog to share my thoughts and learnings.</description>
 <generator>quarto-1.3.290</generator>
-<lastBuildDate>Sun, 26 Mar 2023 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Apr 2023 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Minimizing Regret in Life: Strategies for Making Better Decisions</title>
+  <dc:creator>Sampath Kovvali</dc:creator>
+  <link>https://sampathkovvali.com/posts/02/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<blockquote class="blockquote">
+<p><strong>“Our brain perceives the outside world through sensors such as the ears and eyes. Therefore, we are the output of a function that is determined by the inputs we receive and the initial conditions that exist.”</strong> - Scientists</p>
+</blockquote>
+<p>When starting a project or any work, many people may fail partially or completely. Frustration and anger are forms of thinking induced by the brain to solve this problem. However, some people may end up thinking in loops and not completing the task, often making excuses. This is due to a part of the brain predicting that the work is not worthy. On the other hand, those who solve the problem or complete the task are often attributed to hard work and talent. This is partially correct and is often called survivorship bias. The failures may live with regrets and excuses. So how can we plan for the future while keeping these outcomes in mind? It’s not straightforward, but we can learn from psychology, computer science, and from children and older people.</p>
+<section id="food-and-phycial-activity" class="level2">
+<h2 class="anchored" data-anchor-id="food-and-phycial-activity">Food and Phycial Activity</h2>
+<p>The human brain is designed and optimized to survive in the wild. It tries all the easy ways to complete a task, and the first one is often not to try. For example, let’s say you planned to go to the gym in the morning but failed to get up. This is because the outcome of going to the gym - getting in shape and being strong mentally and physically - is delayed gratification. Our brain knows this information and may give up for the sake of sleep for short-term outcomes because it knows that the outcome may not happen due to the changing world around us. Remember, we are optimized to spend as little energy as possible.</p>
+<p>Another example is planning a healthy diet but failing to stick to it and eating junk food instead. This happens because our brain predicts that a high-calorie diet is rare due to sugar, fats, and processed foods being new to humans when compared to the time scale of evolution. Getting high sugar and fat was key to survival back then, but these days it’s as free as beer, so our brain tells us to eat it.</p>
+</section>
+<section id="internet" class="level2">
+<h2 class="anchored" data-anchor-id="internet">Internet</h2>
+<p>The internet has undoubtedly changed the way we interact with each other. While it has made communication easier and more convenient, it has also had negative effects on people’s relationships. One of the most significant impacts is that it has decreased face-to-face interactions. Instead of meeting in person, people are increasingly communicating through messaging apps and social media. This can lead to a lack of emotional connection and a decrease in empathy. Additionally, the internet has made it easier to hide behind screens and say things that one would not say in person, leading to misunderstandings and conflicts. One of the main issues is that the internet provides instant gratification, which can lead to impatience and a decreased ability to delay gratification and work towards longer-term rewards. The constant stream of notifications and updates can also be overwhelming and distracting, leading to a lack of focus and presence in our real-life relationships.</p>
+</section>
+<section id="make-a-plan" class="level2">
+<h2 class="anchored" data-anchor-id="make-a-plan">Make a plan</h2>
+<p>The first step in achieving your goals is to be aware of the fundamentals of life, such as diet, physical activity, finance, family, and friends. Start by thinking about how to optimize these parameters and then plan accordingly. Once you have established a strong foundation in these areas, you can pursue your passions and achieve your goals more easily. This information is available in many books, both physical and digital, and I recommend starting with physical books for a better reading experience.</p>
+<section id="book-recomndations" class="level3">
+<h3 class="anchored" data-anchor-id="book-recomndations">Book recomndations</h3>
+<ul>
+<li><a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> by James Clear</li>
+<li><a href="https://www.goodreads.com/book/show/40534545-ikigai">Ikigai: The Japanese Secret to a Long and Happy Life</a> by Héctor García and Francesc Miralles</li>
+<li><a href="https://algorithmstoliveby.com/">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Psychology</category>
+  <guid>https://sampathkovvali.com/posts/02/index.html</guid>
+  <pubDate>Mon, 24 Apr 2023 18:30:00 GMT</pubDate>
+</item>
 <item>
   <title>The Role of Emotions and Consciousness in Animals and AI: Understanding Levels of Awareness and Ensuring Safety</title>
   <dc:creator>Sampath Kovvali</dc:creator>
@@ -59,7 +101,7 @@
 </section>
 
  ]]></description>
-  <category>info</category>
+  <category>AI</category>
   <guid>https://sampathkovvali.com/posts/01/index.html</guid>
   <pubDate>Sun, 26 Mar 2023 18:30:00 GMT</pubDate>
 </item>

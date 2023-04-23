@@ -17,4 +17,4 @@ about:
       href: https://gitconnected.com/sampath017/resume
 ---
 
-Hi, i am currently working for no one. Studing data science and machine learning in my free time.
+Hi, I am currently not working for anyone. I am acquiring knowledge in data science and psychology in my free time.

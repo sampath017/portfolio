@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sampathkovvali.com/about.html</loc>
-    <lastmod>2023-04-11T04:16:25.256Z</lastmod>
+    <lastmod>2023-04-23T09:32:03.853Z</lastmod>
   </url>
   <url>
     <loc>https://sampathkovvali.com/index.html</loc>
-    <lastmod>2023-04-11T04:16:13.967Z</lastmod>
+    <lastmod>2023-04-23T09:29:03.573Z</lastmod>
   </url>
   <url>
     <loc>https://sampathkovvali.com/posts/first_post/index.html</loc>
@@ -22,6 +22,10 @@
   </url>
   <url>
     <loc>https://sampathkovvali.com/posts/01/index.html</loc>
-    <lastmod>2023-03-31T04:20:23.012Z</lastmod>
+    <lastmod>2023-04-23T09:29:00.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sampathkovvali.com/posts/02/index.html</loc>
+    <lastmod>2023-04-23T09:29:02.977Z</lastmod>
   </url>
 </urlset>
