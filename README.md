@@ -1,2 +1,2 @@
 # portfolio
-personal website for blogs
+personal website for blogs made with [Quarto](https://quarto.org/)
